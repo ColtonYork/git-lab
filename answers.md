@@ -19,6 +19,16 @@ Answer 8 = commit 2b80f517d357e0493c3405fc2337df0168104f16 (HEAD -> master)
 Author: ColtonYork <cy925323@ohio.edu>
 Date:   Wed Sep 4 17:10:42 2024 -0400
 
-Answer 9 = 
+Answer 9 = Branch is up to date
+
+Answer 10 = The changes werenot made
+
+Answer 11 = Rejected the command 
+
+Answer 12 = Yes
+
+Answer 13 = the output is ". .. .git .gitignore README.md"
+
+
 
 
